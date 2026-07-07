@@ -33,9 +33,9 @@ latest_posts:
 
 **History of Economic Thought:** I explore how thinkers and economists have conceptualized and justified knowledge appropriation through intellectual property law. This work follows two main research paths:
 
-- Intellectual property law and social justice: Examining historical theories and ethical frameworks that justify intellectual property.
+- Examining historical theories and ethical frameworks that justify or challenge intellectual property rights.
 
-- Intellectual property, economic change, and entrepreneurial motivations: Investigating these themes within Schumpeterian thought and from an evolutionary perspective.
+- Investigating links between economich change, intellectual property and entrepreneurship within Schumpeterian thought and from an evolutionary perspective.
 
 **Experimental Economics:** My work examines the intersection of creativity, social preferences, and intellectual property using original experimental protocols. Key areas of focus include:
 
@@ -47,4 +47,4 @@ latest_posts:
 
 - Exploring new business models and intermediation processes in creative industries (e.g. music market), with a focus on major players and blockchain technology.
 
-- Assessing how blockchain technology might impact organizations, in particular SMEs' relationships with larger firms and their ability to capture value from innovation.
+- Assessing how blockchain technology might impact or create new forms of organizations and their ability to capture value from innovation.
