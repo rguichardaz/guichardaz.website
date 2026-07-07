@@ -1,6 +1,6 @@
 ---
-layout: media-shelf
-title: mediashelf
+layout: media
+title: media
 permalink: /media/
 nav: true
 collection: media
