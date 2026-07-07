@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<span style="font-size:1.2rem;">Research Overview:</span>
+## Research Overview:
 
 *My research examines the justification, design, and transformation of appropriation mechanisms for intellectual assets (including artistic works, knowledge, and innovations) with a particular emphasis on intellectual property rights. My work adopts a pluralistic methodological approach combining the History of Economic Thought, Experimental Economics, and the Economics and Management of Innovation.*
 
