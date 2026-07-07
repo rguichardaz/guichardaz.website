@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-size:1.1rem;"> Associate Professor at <a href="https://www.unistra.fr/" target="_blank" rel="noopener noreferrer">University of Strasbourg</a>, <a href="https://www.beta-economics.fr/" target="_blank" rel="noopener noreferrer">BETA-CNRS</a>, <a href="https://iutrs.unistra.fr/" target="_blank" rel="noopener noreferrer">IUT Robert Schuman</a>. </span>
+subtitle: <span style="font-size:1.3rem;"> Associate Professor at <a href="https://www.unistra.fr/" target="_blank" rel="noopener noreferrer">University of Strasbourg</a>, <a href="https://www.beta-economics.fr/" target="_blank" rel="noopener noreferrer">BETA-CNRS</a>, <a href="https://iutrs.unistra.fr/" target="_blank" rel="noopener noreferrer">IUT Robert Schuman</a>. </span>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research Overview:
+<span style="font-size:1.2rem;">Research Overview:</span>
 
 *My research examines the justification, design, and transformation of appropriation mechanisms for intellectual assets (including artistic works, knowledge, and innovations) with a particular emphasis on intellectual property rights. My work adopts a pluralistic methodological approach combining the History of Economic Thought, Experimental Economics, and the Economics and Management of Innovation.*
 
