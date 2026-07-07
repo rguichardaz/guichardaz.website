@@ -3,6 +3,7 @@ layout: media
 title: media
 permalink: /media/
 nav: true
+nav_order: 8
 collection: media
 ---
 
