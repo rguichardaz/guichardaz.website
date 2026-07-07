@@ -37,7 +37,7 @@ latest_posts:
 
 - Investigating links between economich change, intellectual property and entrepreneurship within Schumpeterian thought and from an evolutionary perspective.
 
-**Experimental Economics:** My work examines the intersection of creativity, social preferences, and intellectual property using original experimental protocols. Key areas of focus include:
+**Experimental Economics:** My work explores the interplay between creativity, social preferences, and intellectual property through original experimental designs. Key research areas include:
 
 - Empirical investigations into historical justifications for intellectual property and their connections to individuals' social/distributive preferences.
 
