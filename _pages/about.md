@@ -29,7 +29,7 @@ latest_posts:
 
 ## Research Overview:
 
-*My research examines the justification, design, and transformation of appropriation mechanisms for intellectual assets (including artistic works, knowledge, and innovations) with a particular emphasis on intellectual property rights. My work adopts a pluralistic methodological approach combining the History of Economic Thought, Experimental Economics, and the Economics and Management of Innovation.*
+*My research examines the justification, design, and transformation of appropriation mechanisms for intellectual assets (including artistic works, knowledge, and innovations) with a particular emphasis on intellectual property rights. My work adopts a pluralistic methodological approach combining History of Economic Thought, Experimental Economics, and Economics and Management of Innovation.*
 
 **History of Economic Thought:** I explore how thinkers and economists have conceptualized and justified knowledge appropriation through intellectual property law. This work follows two main research paths:
 
