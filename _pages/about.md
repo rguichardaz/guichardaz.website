@@ -1,6 +1,6 @@
 ---
 layout: about
-title:
+title: about
 permalink: /
 subtitle: <a href='#'>University of Strasbourg, BETA-CNRS, IUT Robert Schuman</a>. Address. Contacts. Motto. Etc.
 
