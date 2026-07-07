@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Strasbourg, BETA-CNRS, IUT Robert Schuman</a>.
+subtitle: Associate professor at <a href='#'>University of Strasbourg, BETA-CNRS, IUT Robert Schuman</a>
 
 profile:
   align: right
