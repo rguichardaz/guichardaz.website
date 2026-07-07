@@ -6,12 +6,11 @@ subtitle: <a href='#'>University of Strasbourg, BETA-CNRS, IUT Robert Schuman</a
 
 profile:
   align: right
-  image: photo beta11.jpeg
+  image: photo_beta11.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 136r</p>
-    <p>Faculté de Sciences Economiques et de Gestion
-61 avenue de la Forêt Noire </p>
+    <p>Faculté de Sciences Economiques et de Gestion 61 avenue de la Forêt Noire </p>
     <p>Strasbourg, 67000</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
