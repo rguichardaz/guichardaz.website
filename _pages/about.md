@@ -34,18 +34,18 @@ latest_posts:
 
 **History of Economic Thought:** I explore how thinkers and economists have conceptualized and justified knowledge appropriation through intellectual property law. This work follows two main research paths:
 
--Intellectual property law and social justice: Examining historical theories and ethical frameworks that justify intellectual property.
+- Intellectual property law and social justice: Examining historical theories and ethical frameworks that justify intellectual property.
 
--Intellectual property, economic change, and entrepreneurial motivations: Investigating these themes within Schumpeterian thought and from an evolutionary perspective.
+- Intellectual property, economic change, and entrepreneurial motivations: Investigating these themes within Schumpeterian thought and from an evolutionary perspective.
 
 **Experimental Economics:** My work examines the intersection of creativity, social preferences, and intellectual property using original experimental protocols. Key areas of focus include:
 
--Empirical investigations into historical justifications for intellectual property and their connections to individuals' social/distributive preferences.
+- Empirical investigations into historical justifications for intellectual property and their connections to individuals' social/distributive preferences.
 
--The relationship between appropriation mechanisms, creativity performance, and the use of AI tools.
+- The relationship between appropriation mechanisms, creativity performance, and the use of AI tools.
 
 **Economics of Innovation:** Collaborating with other scholars, I analyze how digital technologies are reshaping intellectual property, industry dynamics, and business models. Current projects include:
 
--Creative industries (e.g., music): Exploring new business models and intermediation processes in the music market, with a focus on major players and blockchain technology.
+- Exploring new business models and intermediation processes in creative industries (e.g. music market), with a focus on major players and blockchain technology.
 
--SMEs and open innovation: Assessing how blockchain technology impacts SMEs' relationships with larger firms and their ability to capture value from innovation.
+- Assessing how blockchain technology might impact organizations, in particular SMEs' relationships with larger firms and their ability to capture value from innovation.
