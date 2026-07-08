@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <span style="font-size:1.3rem;"> Associate Professor at <a href="https://www.unistra.fr/" target="_blank" rel="noopener noreferrer">University of Strasbourg</a>, <a href="https://www.beta-economics.fr/" target="_blank" rel="noopener noreferrer">BETA-CNRS</a>, <a href="https://iutrs.unistra.fr/" target="_blank" rel="noopener noreferrer">IUT Robert Schuman</a> </span>
