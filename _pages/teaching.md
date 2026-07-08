@@ -12,14 +12,14 @@ calendar: true
 
 | Course | Level | Period |
 |---|---|---|
-| General Economics (Microeconomics) | 1st year Bachelor, BUT Techniques de Commercialisation | 2019–2026 |
-| General Economics (Macroeconomics) | 2nd year Bachelor, BUT Techniques de Commercialisation | 2019–2026 |
-| General Economics (International Economics) | 3rd year Bachelor, BUT Techniques de Commercialisation | 2023–2026 |
-| Economics of Innovation | 2nd year Bachelor, Economics and Management | 2021–2024 |
-| Introduction to the Economics of Blockchain | 1st year Master, HealthTech | 2021–2023 |
-| Introduction to the Economics of Blockchain | 1st year Master, GAIA & MIC | 2024–2026 |
-| Introduction to the Economics of Blockchain | 1st year Bachelor, BUT Computer Science | 2023–2026 |
-| Introduction to Research in Eco. of Innovation and Creativity | 3rd year undergraduate, Magistère of Economics | 2024–2026 |
+| General Economics (Microeconomics) | 1st year Bachelor, BUT Techniques de Commercialisation | 2019–26 |
+| General Economics (Macroeconomics) | 2nd year Bachelor, BUT Techniques de Commercialisation | 2019–26 |
+| General Economics (International Economics) | 3rd year Bachelor, BUT Techniques de Commercialisation | 2023–26 |
+| Economics of Innovation | 2nd year Bachelor, Economics and Management | 2021–24 |
+| Introduction to the Economics of Blockchain | 1st year Master, HealthTech | 2021–23 |
+| Introduction to the Economics of Blockchain | 1st year Master, GAIA & MIC | 2024–26 |
+| Introduction to the Economics of Blockchain | 1st year Bachelor, BUT Computer Science | 2023–26 |
+| Introduction to Research in Eco. of Innovation and Creativity | 3rd year undergraduate, Magistère of Eco. | 2024–26 |
 
 ### As Teaching Assistant (ATER), University of Strasbourg – Sciences Po Strasbourg
 
