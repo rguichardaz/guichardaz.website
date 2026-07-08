@@ -35,7 +35,7 @@ latest_posts:
   <div style="line-height:1.3;">
 <ul>
   <li>Examining historical theories and ethical frameworks that justify or challenge intellectual property rights.</li>
-  <li>Investigating links between economich change, intellectual property and entrepreneurship within Schumpeterian thought and from an evolutionary perspective.</li>
+  <li>Investigating the links between economic change, intellectual property, and entrepreneurship from a Schumpeterian and evolutionary perspective.</li>
 </ul>
 </div>
 
