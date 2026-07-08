@@ -1,6 +1,6 @@
 ---
 layout: page
-title: media
+title: Media
 permalink: /media/
 nav: true
 nav_order: 9
