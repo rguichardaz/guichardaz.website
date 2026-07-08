@@ -12,10 +12,10 @@ calendar: true
 
 | Course | Level | Period |
 |---|---|---|
-| General Economics (Microeconomics) | 1st year Bachelor, BUT Techniques de Commercialisation | 2019–26 |
-| General Economics (Macroeconomics) | 2nd year Bachelor, BUT Techniques de Commercialisation | 2019–26 |
-| General Economics (International Economics) | 3rd year Bachelor, BUT Techniques de Commercialisation | 2023–26 |
-| Economics of Innovation | 2nd year Bachelor, Economics and Management | 2021–24 |
+| General Economics (Microeconomics) | 1st year Bachelor, BUT Tech. de Commercialisation | 2019–26 |
+| General Economics (Macroeconomics) | 2nd year Bachelor, BUT Tech. de Commercialisation | 2019–26 |
+| General Economics (International Economics) | 3rd year Bachelor, BUT Tech. de Commercialisation | 2023–26 |
+| Economics of Innovation | 2nd year Bachelor, Eco. and Management | 2021–24 |
 | Introduction to the Economics of Blockchain | 1st year Master, HealthTech | 2021–23 |
 | Introduction to the Economics of Blockchain | 1st year Master, GAIA & MIC | 2024–26 |
 | Introduction to the Economics of Blockchain | 1st year Bachelor, BUT Computer Science | 2023–26 |
