@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## Publications in peer-reviewed journals
+## Peer-reviewed journals articles
 
 **Guichardaz, R.** (2026). “Decentralising the 19th Century Knowledge Economy: Henry C. Carey’s Critique of Copyright.” *The European Journal of the History of Economic Thought*, 1–22.
 
