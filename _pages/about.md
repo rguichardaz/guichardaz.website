@@ -32,7 +32,7 @@ latest_posts:
 *My research examines the justification, design, and transformation of appropriation mechanisms for intellectual assets (including artistic works, knowledge, and innovations) with a particular emphasis on intellectual property rights. My work adopts a pluralistic methodological approach combining History of Economic Thought, Experimental Economics, and Economics and Management of Innovation.*
 
 **History of Economic Thought:** I explore how thinkers and economists have conceptualized and justified knowledge appropriation through intellectual property law. This work follows two main research paths:
-  <div style="line-height:1.3;">
+  <div style="line-height:1.4;">
 <ul>
   <li>Examining historical theories and ethical frameworks that justify or challenge intellectual property rights.</li>
   <li>Investigating the links between economic change, intellectual property, and entrepreneurship from a Schumpeterian and evolutionary perspective.</li>
@@ -40,7 +40,7 @@ latest_posts:
 </div>
 
 **Experimental Economics:** My work explores the interplay between creativity, social preferences, and intellectual property through original experimental designs. Key research areas include:
-  <div style="line-height:1.3;">
+  <div style="line-height:1.4;">
 <ul>
   <li>Empirical investigations into historical justifications for intellectual property and their connections to individuals' social/distributive preferences.</li>
   <li>The relationship between appropriation mechanisms, creativity performance, and the use of AI tools.</li>
@@ -48,7 +48,7 @@ latest_posts:
 </div>
 
 **Economics of Innovation:** Collaborating with other scholars, I analyze how digital technologies are reshaping intellectual property, industry dynamics, and business models. Current projects include:
-  <div style="line-height:1.3;">
+  <div style="line-height:1.4;">
 <ul>
   <li>Exploring new business models and intermediation processes in creative industries (e.g. music market), with a focus on major players and blockchain technology.</li>
   <li>Assessing how blockchain technology might impact or create new forms of organizations and their ability to capture value from innovation.</li>
