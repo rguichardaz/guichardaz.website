@@ -14,8 +14,8 @@ A selection of interviews and public-facing materials related to my research.
 
 <div class="media-card">
   <div class="media-thumb">
-    <a href="https://www.youtube.com/watch?v=dmBRzUSesmU" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.youtube.com/vi/dmBRzUSesmU/hqdefault.jpg" alt="Connaître Schumpeter" loading="lazy">
+  <a href="https://www.youtube.com/watch?v=PjJzqzgSR8k&t=5s" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.youtube.com/vi/PjJzqzgSR8k/hqdefault.jpg" alt="Connaitre Schumpeter" loading="lazy">
     </a>
   </div>
   <div class="media-content">
