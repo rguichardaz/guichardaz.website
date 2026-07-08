@@ -7,27 +7,45 @@ nav_order: 6
 calendar: true
 ---
 
-### As Associate Professor, University of Strasbourg – Robert Schuman Institute (2019–present)
 
-- **General Economics (Microeconomics)** — 1st year Bachelor (BUT Techniques de Commercialisation), 2019–2026
-- **General Economics (Macroeconomics)** — 2nd year Bachelor (BUT Techniques de Commercialisation), 2019–2026
-- **General Economics (International Economics)** — 3rd year Bachelor (BUT Techniques de Commercialisation), 2023–2026
-- **Economics of Innovation** — 2nd year Bachelor's degree (Economics and Management), 2021–2024
-- **Introduction to the Economics of Blockchain** — 1st year Master's degree (HealthTech), 2021–2023
-- **Introduction to the Economics of Blockchain** — 1st year Master's degree (GAIA & MIC), 2024–2026
-- **Introduction to the Economics of Blockchain** — 1st year Bachelor (BUT Computer Science), 2023–2026
-- **Introduction to Research in Economics of Innovation and Creativity** — 3rd year Bachelor's degree (Magistère of Economics), 2024–2026
+### As Associate Professor, University of Strasbourg – Robert Schuman Institute
 
-### As Teaching Assistant (ATER), University of Strasbourg – Sciences Po Strasbourg (2018–2019)
+| Course | Level | Period |
+|---|---|---|
+| General Economics (Microeconomics) | 1st year Bachelor, BUT Techniques de Commercialisation | 2019–2026 |
+| General Economics (Macroeconomics) | 2nd year Bachelor, BUT Techniques de Commercialisation | 2019–2026 |
+| General Economics (International Economics) | 3rd year Bachelor, BUT Techniques de Commercialisation | 2023–2026 |
+| Economics of Innovation | 2nd year Bachelor, Economics and Management | 2021–2024 |
+| Introduction to the Economics of Blockchain | 1st year Master, HealthTech | 2021–2023 |
+| Introduction to the Economics of Blockchain | 1st year Master, GAIA & MIC | 2024–2026 |
+| Introduction to the Economics of Blockchain | 1st year Bachelor, BUT Computer Science | 2023–2026 |
+| Introduction to Research in Eco. of Innovation and Creativity | 3rd year undergraduate, Magistère of Economics | 2024–2026 |
 
-- **Methodology of Social Sciences** (inferential statistics, qualitative methods, epistemology) — 1st year undergraduate
-- **Economic Policies** — 2nd year undergraduate
-- **International Trade** — 2nd year undergraduate
-- **Corporate Management** (accounting, corporate finance, financial markets, marketing, strategy) — 2nd year undergraduate
+### As Teaching Assistant (ATER), University of Strasbourg – Sciences Po Strasbourg
 
-### As Teaching Assistant (Doc. Contract), University of Strasbourg – Faculty of Eco. and Management (2015-2018)
+| Course | Level | Period |
+|---|---|---|
+| Methodology of Social Sciences | 1st year undergraduate | 2018–2019 |
+| Economic Policies | 2nd year undergraduate | 2018–2019 |
+| International Trade | 2nd year undergraduate | 2018–2019 |
+| Corporate Management | 2nd year undergraduate | 2018–2019 |
 
-- **Accounting** — 1st year undergraduate
-- **Macroeconomics** — 1st year undergraduate
-- **Economic History** — 2nd year undergraduate
-- **Advanced Financial Management** — 3rd year undergraduate
+### As Teaching Assistant (Doc. contract) University of Strasbourg – Faculty of Economics and Management
+
+| Course | Level | Period |
+|---|---|---|
+| Accounting | 1st year undergraduate | 2015–2016 |
+| Macroeconomics | 1st year undergraduate | 2015–2016 / 2017–2018 |
+| Economic History | 2nd year undergraduate | 2016–2018 |
+| Advanced Financial Management | 3rd year undergraduate | 2016–2017 |
+
+
+
+
+
+
+
+
+
+
+
