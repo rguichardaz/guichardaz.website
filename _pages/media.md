@@ -5,9 +5,6 @@ permalink: /media/
 nav: true
 nav_order: 9
 ---
-
-A selection of interviews and public-facing materials related to my research.
-
 <div class="media-list">
 
 <div class="media-card">
