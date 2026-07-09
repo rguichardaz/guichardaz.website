@@ -6,8 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-## Peer-reviewed journals articles
-
 
 ## Peer-reviewed journal articles
 
