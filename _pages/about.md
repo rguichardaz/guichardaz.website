@@ -12,6 +12,7 @@ profile:
     <p>Office 136</p>
     <p>Faculté de Sciences Economiques et de Gestion, 61 av. de la Forêt Noire </p>
     <p>Strasbourg, 67000</p>
+    <p>rguichardaz@unistra.fr</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
